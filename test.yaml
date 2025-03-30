@@ -1,0 +1,10 @@
+$schema: "test_schema.yaml"
+someProp: "value"
+summary: "summary"
+welcomeUrl: "hallo"
+welcomeFile: "asfd"
+welcomeLocal:
+  config:
+    environments:
+      dev:
+        phases:
